@@ -6,7 +6,7 @@
  * Return: 0
  */
 int main(void)
-{		
+{
 	int i = 48;
 	int j = 48;
 	int k = 48;
@@ -30,8 +30,6 @@ int main(void)
 						putchar(comma);
 						putchar(space);
 					}
-
-				
 				}
 				k++;
 			}
