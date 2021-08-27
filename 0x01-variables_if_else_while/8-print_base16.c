@@ -11,12 +11,12 @@ int main(void)
 	int alph = 97;
 	int newLine = 10;
 
-	while (num < 57)
+	while (num < 58)
 	{
 		putchar(num);
 		num++;
 
-		while (num == 57 && alph < 103)
+		while (num == 58 && alph < 103)
 		{
 			putchar(alph);
 			alph++;
