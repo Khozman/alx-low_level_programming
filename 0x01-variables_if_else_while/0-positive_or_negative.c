@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - Prints string
- * Description: This code Prints a string
+ * Description: This code checks for positive and negative integers
  * Return: 0
  */
 int main(void)
