@@ -22,7 +22,7 @@ int main(void)
 			upperCase++;
 			if (upperCase == 91)
 			{
-				putChar(newLine);
+				putchar(newLine);
 			}
 		}
 	}
