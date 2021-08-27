@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - Main section
- * Description: This code prints numbers from 00 to 99 
+ * Description: This code prints numbers from 00 to 99
  * Return: 0
  */
 int main(void)
