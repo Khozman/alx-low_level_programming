@@ -5,7 +5,7 @@
  * main - Prints string
  * Description: This code Prints a string
  * Return: 0
- */     
+ */
 int main(void)
 {
 	int n;
