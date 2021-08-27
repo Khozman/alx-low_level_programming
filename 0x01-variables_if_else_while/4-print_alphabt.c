@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - Main section
- * Description: This code prints alphabets
+ * Description: This code prints alphabets except for e and q
  * Return: 0
  */
 int main(void)
@@ -19,7 +19,7 @@ int main(void)
 		if (a == 123)
 		{
 			putchar(emptyLine);
-		} 
+		}
 		else if (a == e)
 		{
 			a++;
@@ -28,6 +28,6 @@ int main(void)
 		{
 			a++;
 		}
-	}			
+	}		
 	return (0);
 }
