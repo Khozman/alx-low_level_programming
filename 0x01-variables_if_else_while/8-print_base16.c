@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - Main section
- * Description: This code prints alphabets
+ * Description: This code prints numbers from 0-9 and alphabets a-f
  * Return: 0
  */
 int main(void)
