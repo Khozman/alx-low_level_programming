@@ -26,11 +26,14 @@ int main(void)
 				printCharacter(newLine);
 			}
 		}
-	
 	}
 	return (0);
 }
-
+/**
+ * printCharacter - function
+ * Description: This code is resposible for printing character
+ * Return: void
+ */
 void printCharacter(int i)
 {
 	putchar(i);
