@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- *  * main - Main section
- *   * Description: This code prints alphabets
- *    * Return: 0
- *     */
+ * main - Main section
+ * Description: This code prints alphabets
+ * Return: 0
+ */
 int main(void)
 {
 	int a = 97;
@@ -20,13 +20,14 @@ int main(void)
 		{
 			putchar(emptyLine);
 		} 
-		else if( a == e)
+		else if (a == e)
 		{
 			a++;
-		} 
+		}
 		else if (a == q)
 		{
 			a++;
 		}
-	}			return (0);
+	}			
+	return (0);
 }
