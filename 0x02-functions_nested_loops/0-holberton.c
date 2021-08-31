@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main - Prints string
  * Description: This code Prints Holberton
@@ -6,6 +6,13 @@
  */
 int main(void)
 {
-	printf("Holberton\n");
+	char c[] = "Holberton";
+	int i;
+
+	for (i = 0; i < 9; i++)
+	{
+		_putchar(c[i]);
+	}
+	_putchar('\n');
 	return (0);
 }
